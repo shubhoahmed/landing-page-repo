@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    background-image: url("bg-img.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.item li{
+    list-style-type: none;
+    display: inline;
+    padding: 20px;
+    text-align: center;
+    
+}
